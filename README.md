@@ -20,3 +20,10 @@ Build your own custom spritesheets from scratch **without any external libraries
 ### Just look at the example script "Spritesheet.c", it's really that easy to use.
 
 ---
+
+## License
+
+You can use it in any commercial or non-commercial project without having to make it MIT license.
+But please attribute and source this repo if you use it in a project. This helps the repo grow.
+
+---
