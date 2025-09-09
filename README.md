@@ -1,6 +1,6 @@
-# Csprite
+# Clsprite
 
-**Csprite** — Simple spritesheet handling in **C (Clang)**.  
+**Clsprite** — Simple spritesheet handling in **C (Clang)**.  
 Build your own custom spritesheets from scratch **without any external libraries**. Perfect for learning, prototyping, or lightweight game projects.
 
 ---
